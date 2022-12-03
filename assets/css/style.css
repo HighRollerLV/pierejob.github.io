@@ -249,7 +249,7 @@ html {
 }
 
 .sparkleVideo {
-    background: url(assets/img/sparkleVideo.svg);
+    background: url(../img/sparkleVideo.svg);
     background-size: cover;
     background-position: center;
 }
